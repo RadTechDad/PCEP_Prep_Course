@@ -1,4 +1,4 @@
 .env
 .DS_Store
 slides/
-documents/
+homework/*.pdf
